@@ -1,9 +1,13 @@
 [package]
-name = "axvisor_api_proc"
-version = "0.1.0"
-authors.workspace = true
-edition.workspace = true
-license.workspace = true
+name = "axvisor-api-proc-tt"
+authors = ["aarkegz <aarkegz@gmail.com>"]
+edition = "2024"
+license = "GPL-3.0-or-later OR Apache-2.0 OR MulanPSL-2.0"
+categories = ["embedded", "no-std"]
+description = "Attribute macros for automated API trait generation in ArceOS-Hypervisor development"
+keywords = ["hypervisor", "proc-macro"]
+repository = "https://github.com/bullhh/axvisor-api-tt/tree/master/axvisor_api_proc"
+version = "0.1.1"
 
 [lib]
 proc-macro = true
