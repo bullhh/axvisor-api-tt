@@ -6,7 +6,7 @@ license = "GPL-3.0-or-later OR Apache-2.0 OR MulanPSL-2.0"
 categories = ["embedded", "no-std"]
 description = "Attribute macros for automated API trait generation in ArceOS-Hypervisor development"
 keywords = ["hypervisor", "proc-macro"]
-repository = "https://github.com/bullhh/axvisor-api-tt/tree/master/axvisor_api_proc"
+repository = "https://github.com/bullhh/axvisor-api-tt/tree/master/axvisor-api-proc-tt"
 version = "0.1.1"
 
 [lib]
